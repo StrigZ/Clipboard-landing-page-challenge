@@ -279,7 +279,7 @@ a:hover {
 }
 
 .footer {
-    background-color: rgba(159, 171, 178, .5);
+    background-color: #F5F6F8;
     padding: 40px 35px;
     display: flex;
     justify-content: center;
@@ -438,7 +438,7 @@ svg:hover path {
     .devices {
         width: 100%;
         display: block;
-        margin-bottom: 140px;
+        margin-bottom: 180px;
     }
     .features-2 {
         padding: 0 30px;
